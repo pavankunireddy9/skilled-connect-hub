@@ -1,0 +1,5 @@
+- [x] Rename visible branding to TaskHive across public and signed-in pages.
+- [x] Replace landing claims and sample content with a real search-led introduction.
+- [x] Add persistent light/dark mode controls.
+- [x] Show saved customer booking locations and driving directions to providers.
+- [x] Verify public and authenticated flows and page metadata.
