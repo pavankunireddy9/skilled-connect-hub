@@ -46,7 +46,7 @@ jobs:
       - name: Upload site
         uses: actions/upload-pages-artifact@v4
         with:
-          path: skilled-connect-hub-main/skilled-connect-hub-88-main/dist
+          path: skilled-connect-hub-main/skilled-connect-hub-88-main/.output/public
 
       - name: Deploy
         id: deployment
